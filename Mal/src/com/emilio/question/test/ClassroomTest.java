@@ -16,7 +16,7 @@ public class ClassroomTest {
 	    Seat seatC = new Seat(0,0); //
 	    Seat seatB = new Seat(0,2);
 	    Seat seatA = new Seat(0,4);	
-	    Seat seatD = new Seat(1,0);	   
+	    Seat seatD = new Seat(1,0);	   // 
 	   
 //	    brockenSeats.add(seatA);
 //	    brockenSeats.add(seatB);
