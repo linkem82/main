@@ -6,7 +6,7 @@ import java.util.ArrayList;
 public class Classroom {
   private int rows;
   private int columns ;
-  private List<Seat> occupiableSeats = new  ArrayList<Seat>(); //
+  private List<Seat> occupiableSeats = new  ArrayList<Seat>(); 
   private List<Seat> brokenSeats;
   
   public Classroom(int rows, int columns, List<Seat> brokenSeats) {
