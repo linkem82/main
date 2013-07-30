@@ -12,7 +12,7 @@ public class Classroom {
   public Classroom(int rows, int columns, List<Seat> brokenSeats) {
     this.rows = rows;
     this. columns = columns;
-    this.brokenSeats = brokenSeats;
+    this.brokenSeats = brokenSeats; //
   }
   
   public List<Seat> getOccupaibleSeats() {
